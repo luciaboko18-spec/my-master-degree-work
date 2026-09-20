@@ -14,7 +14,7 @@ Analyse pergélisol & feux (couche intégrée)
 5 graphiques (Chart.js) basés sur une série temporelle réelle 2001–2026 : température de surface, températures du sol, anomalies de végétation, albédo, couverture neigeuse
 Déploiement
 
-Ce site est un fichier HTML autonome (permafrost_study_yakutia(3).html), sans backend ni base de données — toutes les données sont intégrées directement dans la page. Publié via GitHub Pages.
+Ce site est un fichier HTML autonome (index.html), sans backend ni base de données — toutes les données sont intégrées directement dans la page. Publié via GitHub Pages.
 
 Technologies
 
